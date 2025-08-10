@@ -21,7 +21,7 @@ aside{
     /* top: 0%; */
     /* background-position:inherit; */
 }
-nav start's here
+/* nav start's here */
 nav{
     /* border: 2px solid blue; */
     height: 100px;
@@ -66,7 +66,7 @@ nav img{
 nav i{
     font-size: 30px;
 }
-nav end's here
+/* nav end's here */
 #d2{
     /* border: 2px solid yellow; */
     display: flex;
