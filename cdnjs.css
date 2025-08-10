@@ -12,7 +12,6 @@ aside{
     background-color:#4b4848;
 
 }
-
 #sec1{
     /* border: 2px solid red; */
     width: 100%;
@@ -38,7 +37,6 @@ nav{
     justify-content: space-evenly;
     align-items:center ;
     gap: 20px;
-
 }
 nav div{
     /* border: 2px solid yellow; */
