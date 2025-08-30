@@ -100,7 +100,7 @@ nav i{
     display: flex;
     justify-content:flex-start;
     align-items:start;
-    flex-direction: column;
+    flex-direction:column;
     padding-left: 300px;
     position: relative;
     
