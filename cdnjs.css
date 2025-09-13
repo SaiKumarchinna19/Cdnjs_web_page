@@ -5,14 +5,12 @@
     box-sizing: border-box;
     font-family:Proxima Nova;  
 }
-
 /* *:hover{  
      border: 2px solid red;
  } */
 
 aside{
     background-color:#4b4847;
-
 }
 #sec1{
     /* border: 2px solid red; */
@@ -41,8 +39,6 @@ nav{
     align-items:center ;
     gap: 20px;
 }
-
-
 nav div{
     /* border: 2px solid yellow; */
     height: 80px;
